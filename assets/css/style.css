@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+/* .border {
+    border: 1px solid grey;
+}
+ 
+.pad {
+    padding: 15px;
+}
+
+.dimensiones{
+    width: 100px;
+    height: 100px;
+} */
+.alinear-recuadros-dinamicos{
+    display:flex;
+    justify-content:space-around;
+    padding:15px;
+}
