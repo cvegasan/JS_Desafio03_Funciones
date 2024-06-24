@@ -2,18 +2,11 @@
     margin:0px;
     padding: 0px;
 }
-/* .border {
-    border: 1px solid grey;
+/* Clases formulario 2_Pintar */
+.tamannio-fuente{
+    font-size: 30px;
 }
- 
-.pad {
-    padding: 15px;
-}
-
-.dimensiones{
-    width: 100px;
-    height: 100px;
-} */
+/* Clases formulario 4_Colores */
 .alinear-recuadros-dinamicos{
     display:flex;
     justify-content:space-around;
